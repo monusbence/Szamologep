@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    
+}
+form {
+    background-color: goldenrod;
+    border: 2px double blue;
+    width: 50%;
+}
+h3, h2, label {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: large;
+
+}
